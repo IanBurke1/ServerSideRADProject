@@ -6,7 +6,7 @@ Spring Boot MVC Order Tracking System
 # Introduction
 This repository will contain work for my third year Server Side RAD project in computing Software Development studied at GMIT. I am required to write a Spring Boot MVC (Model View Controller) application that allows a logged-in user to manage orders of products for customers. The application will use the Spring MVC n-tier architecture i.e. Controllers, Services, Repositories, Views, with the appropiate data/logic in each tier.
 
-#Model
+# Model
 The Model for the application consists of three objects:
 + Product
   - Product ID
